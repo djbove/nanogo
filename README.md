@@ -1,7 +1,7 @@
 # nanogo
 Just a test-repo to get familiar with git
 
-##Mermaid possible?##
+## Mermaid possible?
 ---
 '''mermaid
     graph TD;
