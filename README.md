@@ -3,6 +3,7 @@ Just a test-repo to get familiar with git
 
 **Mermaid possible?**
 '''mermaid
-graph TD;
-a->b;
+
+    graph TD;
+        a->b;
 '''
