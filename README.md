@@ -7,6 +7,6 @@ Just a test-repo to get familiar with git
 graph TD;
     a-->b;
 ```
-# No mermaid possible!
+### No mermaid possible!
 from out of the box at least...
 mermaid does not show up in iPhone GitHub app.
